@@ -11,3 +11,5 @@ Try it out here: [shiny version of monkeysnextwordapp](https://jcdoesds.shinyapp
 
 ![screenshot of working application](/monkeysnextword.jpg)
 
+See the fun [slide deck here on RPubs](https://rpubs.com/jcdoesds/monkeysnextwordappdeck)
+

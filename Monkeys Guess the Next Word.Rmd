@@ -21,6 +21,7 @@ You **need** my monkeys to guess your next word.
 
 ![](monkeysnextwordapp/www/img/monkey1.png){width="30%"}![](monkeysnextwordapp/www/img/monkey2.png){width="30%"}![](monkeysnextwordapp/www/img/monkey3.png){width="30%"}
 
+
 How it Works
 ==================================
  
@@ -37,9 +38,11 @@ How it Works
 Working Prototype
 ==================================== 
 In our working prototype, you can see that the user typed "I am", and the monkeys
-guessed 'not', 'going', and 'a' as likely next words. There is also a graph showing the odds that is the next word, given the user's input based on the data in the model. 
+guessed 'not', 'going', and 'a' as likely next words. There is also a graph showing the odds that is the next word, given the user's input based on the data in the model. [Try it yourself on Shiny](https://jcdoesds.shinyapps.io/monkeysnextwordapp/)
 
 ![Screenshot of Working Prototype](monkeysnextword.jpg){width="70%"}
+
+
 
 Fund Us Now
 ====================================
